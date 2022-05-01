@@ -1,9 +1,5 @@
 --[[
-	DEX Main Script
-	
-	Created by: Moon and Courtney
-	
-	RASPBERRY PI IS A SKIDDY SKID AF
+dodger is a skid
 --]]
 
 -- Metas
